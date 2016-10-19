@@ -1,0 +1,10 @@
+C:\Users\Programador\Desktop\MyLayer\MyLayer\bin\Debug\MyLayer.exe
+C:\Users\Programador\Desktop\MyLayer\MyLayer\bin\Debug\MyLayer.pdb
+C:\Users\Programador\Desktop\MyLayer\MyLayer\obj\x86\Debug\MyLayer.FrmMantCli.resources
+C:\Users\Programador\Desktop\MyLayer\MyLayer\obj\x86\Debug\MyLayer.Properties.Resources.resources
+C:\Users\Programador\Desktop\MyLayer\MyLayer\obj\x86\Debug\MyLayer.csproj.GenerateResource.Cache
+C:\Users\Programador\Desktop\MyLayer\MyLayer\obj\x86\Debug\MyLayer.exe
+C:\Users\Programador\Desktop\MyLayer\MyLayer\obj\x86\Debug\MyLayer.pdb
+C:\Users\Programador\Desktop\MyLayer\MyLayer\obj\x86\Debug\MyLayer.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Desktop\MyLayer\MyLayer\bin\Debug\Data.dll
+C:\Users\Programador\Desktop\MyLayer\MyLayer\bin\Debug\Data.pdb
